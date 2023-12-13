@@ -10,7 +10,7 @@ Essentially, it's a tool that facilitates a clear understanding of the distincti
 
 To make the most of this application, simply adjust the sliders on the left to fine-tune the levels of confidence and prediction according to your specific requirements.
 
-
+The goal of the app is to show how many actual point are found within the intervals, and which one is more acurate at which level of alpha. 
 
 
 ![image](https://github.com/kksemina/Model_Interval_Examples_Rshiny/assets/73604041/930892c9-2257-45d0-9271-470fdd727685)

@@ -13,5 +13,4 @@ To make the most of this application, simply adjust the sliders on the left to f
 
 
 
-
-![image](https://github.com/kksemina/Model_Interval_Examples_Rshiny/assets/73604041/851a0b15-a45c-4e3a-b8b1-01e9c45ca029)
+![image](https://github.com/kksemina/Model_Interval_Examples_Rshiny/assets/73604041/8b7916dd-a490-4016-972f-a3c6ddbcc029)

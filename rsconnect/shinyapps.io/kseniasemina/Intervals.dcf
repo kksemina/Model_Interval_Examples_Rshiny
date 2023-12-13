@@ -5,7 +5,7 @@ account: kseniasemina
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 10686575
-bundleId: 7993198
+bundleId: 8043412
 url: https://kseniasemina.shinyapps.io/Intervals/
 version: 1
 asMultiple: FALSE
